@@ -1,4 +1,4 @@
-![Hi there](https://capsule-render.vercel.app/api?type=speech&height=170&color=gradient&text=Hiee&reversal=true&textBg=false&fontAlign=52&fontAlignY=52&animation=twinkling&rotate=0&stroke=000000&strokeWidth=-2)
+![Hi there](https://capsule-render.vercel.app/api?type=speech&height=170&color=gradient&text=Hiee&reversal=true&textBg=false&fontAlign=50&fontAlignY=51&animation=fadeIn&rotate=0&strokeWidth=-2&descAlignY=50)
 
 <!--
 **kodesk02/kodesk02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
