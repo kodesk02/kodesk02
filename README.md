@@ -1,4 +1,11 @@
+<!-- Main animated header -->
 ![Hi there](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hiee&animation=fadeIn)
+
+<!-- Subheader with PNG -->
+## Welcome to My Awesome Repo
+
+![Subheader Icon](file:///Users/macbook/Downloads/programmer_19017967.png)
+
 
 <!--
 **kodesk02/kodesk02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
