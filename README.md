@@ -4,7 +4,7 @@
 <!-- Subheader with PNG -->
 ## Welcome to My Awesome Repo
 
-![Subheader Icon](file:///Users/macbook/Downloads/programmer_19017967.png)
+![Subheader Icon](/programmer_19017967.png)
 
 
 <!--
