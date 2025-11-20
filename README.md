@@ -2,7 +2,7 @@
 ![Hi there](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hiee&animation=fadeIn)
 
 <!-- Subheader with PNG -->
-##<p align="center">Let’s build something together</p>
+<h1 align="center" style='color: blue'><strong>Let’s build something together</strong></h1>
 
 
 ![Subheader Icon](/programmer_19017967.png)
