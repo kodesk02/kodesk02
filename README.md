@@ -2,10 +2,20 @@
 ![Hi there](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hiee&animation=fadeIn)
 
 <!-- Subheader with PNG -->
-<h1 align="center" style='color: blue'><strong>Let’s build something together</strong></h1>
+<h1 align="center"><strong>Let’s build something together</strong></h1>
 
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
-![Subheader Icon](/programmer_19017967.png)
 
 
 <!--
